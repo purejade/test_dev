@@ -7,3 +7,5 @@ exercise git
 first modified
 
 WJY
+
+SECOND
